@@ -112,6 +112,14 @@ Environment variables in `.env`:
 - HTTPX for async HTTP client
 - Pydantic for data validation
 
+**Requirements:** Python 3.10+, CUDA 11.8+, 16GB+ GPU memory recommended
+
+
+
+## Demo
+
+https://github.com/user-attachments/assets/e69331a0-582a-4aa1-8bbc-39515b0953aa
+
 ---
 
-**Requirements:** Python 3.10+, CUDA 11.8+, 16GB+ GPU memory recommended
+
