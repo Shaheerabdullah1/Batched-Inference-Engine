@@ -118,7 +118,10 @@ Environment variables in `.env`:
 
 ## Demo
 
-https://github.com/user-attachments/assets/e69331a0-582a-4aa1-8bbc-39515b0953aa
+
+https://github.com/user-attachments/assets/a1144eac-7e30-481b-bfb4-3bc70cf05de6
+
+
 
 ---
 
